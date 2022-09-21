@@ -22,10 +22,11 @@ switch (pack)
 
         Console.WriteLine("You have selected Package A. How many audiobooks would you like?");
         books = Console.ReadLine();
-        books = int.Parse.(books);
-        if (books > 10)
+        int booksInt = Convert.ToInt32(books);
+        if (booksInt > 10)
         {
-            bookBill = (books-10) * 2.00;
+            bookBill = (booksInt-10) * 2.00;
+            
         }
 
 
@@ -33,7 +34,9 @@ switch (pack)
         break;
 
     case "B":
-
+        Console.WriteLine("You have selected Package B. How many audiobooks would you like?");
+        books = Console.ReadLine();
+        int booksInt = Convert.ToInt32;
         break;
 
     case "C":

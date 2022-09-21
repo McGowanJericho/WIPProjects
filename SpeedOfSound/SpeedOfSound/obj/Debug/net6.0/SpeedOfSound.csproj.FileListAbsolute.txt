@@ -1,0 +1,15 @@
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\bin\Debug\net6.0\SpeedOfSound.exe
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\bin\Debug\net6.0\SpeedOfSound.deps.json
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\bin\Debug\net6.0\SpeedOfSound.runtimeconfig.json
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\bin\Debug\net6.0\SpeedOfSound.dll
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\bin\Debug\net6.0\SpeedOfSound.pdb
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.csproj.AssemblyReference.cache
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.AssemblyInfoInputs.cache
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.AssemblyInfo.cs
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.csproj.CoreCompileInputs.cache
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.dll
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\refint\SpeedOfSound.dll
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.pdb
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\SpeedOfSound.genruntimeconfig.cache
+C:\Users\Jericho McGowan\source\repos\SpeedOfSound\SpeedOfSound\obj\Debug\net6.0\ref\SpeedOfSound.dll
